@@ -1,0 +1,12 @@
+dgl                           1.1.0+cu102
+numpy                         1.21.6
+ogb                           1.3.3
+pandas                        1.3.5
+pyg-lib                       0.2.0+pt112cu102
+seaborn                       0.12.2
+torch                         1.12.0+cu102
+torch-geometric               2.3.1
+torch-scatter                 2.1.1
+torch-sparse                  0.6.17
+torch-spline-conv             1.2.2
+torchvision                   0.13.0+cu102
